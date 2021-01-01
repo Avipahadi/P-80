@@ -1,0 +1,63 @@
+#input_box_1 {
+    float: left;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#input_box_2 {
+    float: right;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#p1_button {
+    float: left;
+    background-color: transparent;
+    color: black;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 6px;
+    font-size: 13px;
+    box-shadow: 3px 3px 3px #808080;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#p2_button {
+    float: right;
+    background-color: transparent;
+    color: black;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 6px;
+    font-size: 13px;
+    box-shadow: 3px 3px 3px #808080;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.input {
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+    border-radius: 6px;
+    border-color: black;
+    border-width: 2px;
+}
+
+.p {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    color: black;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+input::placeholder {
+    color: black;
+}
+
+#p_1 {
+    float: left;
+}
+
+#p_2 {
+    float: left;
+}
